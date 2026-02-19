@@ -7,7 +7,8 @@
 - Improved stability and release build
 
 ## Download
-Get the latest APK from our official link:(https://drive.google.com/file/d/1HWO80OHJihUAYTkkdsI2uwVHjxqUZafW/view?usp=drive_link
+Get the latest APK from our official link:
+https://drive.google.com/file/d/1K6zOEJPzrOmTx3be9iI4hqlNGC7lhbjl/view?usp=drive_link
 
 ## Notes
 - Updating keeps your data as long as you don’t uninstall the app.
